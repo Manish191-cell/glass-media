@@ -1,2 +1,2 @@
 # glass-media
-Misinformation Detection and Fact Checking on Social Media
+Misinformation Detection and Fact-Checking
